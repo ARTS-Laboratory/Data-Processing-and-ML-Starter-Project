@@ -1,6 +1,6 @@
 # Data Processing and ML Starter Project
 
-This repo acts as a crash course for learning data processing and machine learning, and how to apply them in engineering research. The repo consists of a few self-study Jupyter notebooks which will get the novice researcher up-to-speed, then a final project which combines everything they've learned. Each notebook walks through problems related to its subject matter and then provides a few challenge problems. Solution codes to the challenge problems are provided in the `/solutions` branch -- but we recommend trying to solve them yourself first!
+This repo acts as a crash course for learning data processing and machine learning, and how to apply them in engineering research. The repo consists of a few self-study Jupyter notebooks which will get the novice researcher up-to-speed, then a final project where they can apply everything they've learned. Each notebook walks through problems related to its subject matter and then provides a few challenge problems. 
 
 Good luck!
 
